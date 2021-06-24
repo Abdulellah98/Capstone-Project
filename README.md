@@ -8,7 +8,9 @@
 ## File:
   1. HR-Employee-Attrition.csv: This is the Dataset I used in my project .
   2. Capstone Project - DSND.ipynb: This is my notebook where I did my analysis and build my model.
- 
+
+## Results:
+  Results and discussion are published on [Medium](https://abdulellah-hud.medium.com/ibm-hr-analytics-employee-attrition-9df152b91d3c). 
   
 ## Licensing, Authors, and Acknowledgements:
 Must give credit to IBM and pavansubhash for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). Otherwise, feel free to use the code here as you would like!
